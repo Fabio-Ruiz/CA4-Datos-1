@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\CA4-Datos-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62529A86-A886-467C-90FD-67CF89E4AB2C}|..\\Unit Test BST\\Unit Test BST.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca4 datos1\\ca4-datos-1\\unit test bst\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62529A86-A886-467C-90FD-67CF89E4AB2C}|..\\Unit Test BST\\Unit Test BST.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca4 datos1\\ca4-datos-1\\unit test bst\\unit test bst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9254947F-84D9-4BBB-A605-716BE59686ED}|CA4 Datos 1.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca4 datos1\\ca4-datos-1\\ca4-datos-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9254947F-84D9-4BBB-A605-716BE59686ED}|CA4 Datos 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9254947F-84D9-4BBB-A605-716BE59686ED}|CA4 Datos 1.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca4 datos1\\ca4-datos-1\\ca4-datos-1\\ca4 datos 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9254947F-84D9-4BBB-A605-716BE59686ED}|CA4 Datos 1.csproj|solutionrelative:ca4 datos 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit Test BST",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\Unit Test BST\\Unit Test BST.csproj",
+              "RelativeDocumentMoniker": "..\\Unit Test BST\\Unit Test BST.csproj",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\Unit Test BST\\Unit Test BST.csproj",
+              "RelativeToolTip": "..\\Unit Test BST\\Unit Test BST.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T03:47:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\Unit Test BST\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Unit Test BST\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\Unit Test BST\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Unit Test BST\\UnitTest1.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAAABUBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:46:28.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CA4 Datos 1.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\CA4-Datos-1\\CA4 Datos 1.cs",
+              "RelativeDocumentMoniker": "CA4 Datos 1.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\CA4-Datos-1\\CA4 Datos 1.cs",
+              "RelativeToolTip": "CA4 Datos 1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:40:49.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\CA4-Datos-1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA4 Datos1\\CA4-Datos-1\\CA4-Datos-1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:40:51.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
