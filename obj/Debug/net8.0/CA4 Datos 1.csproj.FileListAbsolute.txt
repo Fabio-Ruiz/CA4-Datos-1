@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\bin\Debug\net8.0\CA4 Datos 1.exe
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\bin\Debug\net8.0\CA4 Datos 1.deps.json
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\bin\Debug\net8.0\CA4 Datos 1.runtimeconfig.json
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\bin\Debug\net8.0\CA4 Datos 1.dll
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\bin\Debug\net8.0\CA4 Datos 1.pdb
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\CA4 Datos 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\CA4 Datos 1.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\CA4 Datos 1.AssemblyInfo.cs
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\CA4 Datos 1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\CA4 Datos 1.sourcelink.json
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\CA4 Datos 1.dll
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\refint\CA4 Datos 1.dll
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\CA4 Datos 1.pdb
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\CA4 Datos 1.genruntimeconfig.cache
+C:\Users\Home\Documents\GitHub\CA4-Datos-1\obj\Debug\net8.0\ref\CA4 Datos 1.dll
